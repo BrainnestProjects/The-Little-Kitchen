@@ -1,4 +1,4 @@
-# css-website
-Brainnest Group Project using CSS
+# The Little Kitchen
+Brainnest Group Project using HTML and CSS.
 
 https://jalpa95.github.io/BrainnestProjects/The-Little-Kitchen/
